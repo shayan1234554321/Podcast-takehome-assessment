@@ -10,7 +10,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo ](#live-demo)
+  - [📷 Video Demo ](#live-demo)
   - [📃 API Documentation ](#api-documentation)
   - [🏃‍♂️ running-project ](#running-project)
 - [👥 Authors](#authors)
@@ -76,15 +76,15 @@ Frontend Features
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 📷 Video Demo <a name="live-demo"></a>
 
-> <a href="https://www.shayanalibakhsh.online/" >Visit Live</a>
+> <a href="https://www.shayanalibakhsh.online/" >Video Live</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- API Documentation -->
 
-## 🚀 Live Demo <a name="api-documentation"></a>
+## 📃 API Documentation <a name="api-documentation"></a>
 
 <img src="./documentation.png" />
 
@@ -92,7 +92,7 @@ Frontend Features
 
 <!-- Running Project -->
 
-## 🚀 Live Demo <a name="running-project"></a>
+## 🏃‍♂️ Run Project <a name="running-project"></a>
 
 Run Frontend
 
