@@ -1,0 +1,53 @@
+.main .paginationComponent {
+  display: flex;
+  max-width: 980px;
+  width: 100%;
+  padding: 20px;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.main .paginationComponent .left {
+  display: flex;
+  gap: 10px;
+}
+
+.main .paginationComponent .dropdown {
+  background-color: white;
+  color: black;
+  padding: 2px 5px;
+  border-radius: 3px;
+}
+
+.main .ui.pagination.menu .item:hover {
+  background-color: rgb(228, 228, 228) !important;
+}
+
+.main .ui.pagination.menu .active.item {
+  background-color: rgb(211, 211, 211) !important;
+}
+
+@media screen and (max-width: 1024px) {
+  .main .paginationComponent {
+    max-width: 730px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .main .paginationComponent {
+    max-width: 590px;
+  }
+}
+
+@media screen and (max-width: 562px) {
+  .main .paginationComponent {
+    margin-top: 30px;
+    flex-direction: column-reverse;
+    gap: 20px;
+  }
+  .main .paginationComponent .left {
+    font-size: 12px;
+  }
+  
+}
