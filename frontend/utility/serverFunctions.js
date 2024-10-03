@@ -12,7 +12,7 @@ export const getPodcasts = async (value, type, page, limit) => {
     const response = await axios.get(url);
     return response.data;
   } catch (err) {
-    if (err.response.status === 429) {
+    if (err?.response?.status === 429) {
       return { error: "Too Many Requests" };
     } else {
       return { error: "Something went wrong" };

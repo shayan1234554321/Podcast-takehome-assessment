@@ -94,24 +94,30 @@ Frontend Features
 
 ## 🏃‍♂️ Run Project <a name="running-project"></a>
 
-Run Frontend
+### Run Frontend
 
 install dependencies
+
 ```
 npm install
 ```
+
 Run Project
+
 ```
 npm run dev // Will start on http://localhost:3000
 ```
 
-Run Backend
+### Run Backend
 
 install dependencies
+
 ```
 npm install
 ```
+
 Run Project
+
 ```
 npm start // Will start on http://localhost:4500
 ```
