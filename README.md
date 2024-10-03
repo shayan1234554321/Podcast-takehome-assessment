@@ -11,7 +11,8 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo ](#live-demo)
-  - [🚀 API Documentation ](#api-documentation)
+  - [📃 API Documentation ](#api-documentation)
+  - [🏃‍♂️ running-project ](#running-project)
 - [👥 Authors](#authors)
 
 <!-- PROJECT DESCRIPTION -->
@@ -86,6 +87,34 @@ Frontend Features
 ## 🚀 Live Demo <a name="api-documentation"></a>
 
 <img src="./documentation.png" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Running Project -->
+
+## 🚀 Live Demo <a name="running-project"></a>
+
+Run Frontend
+
+install dependencies
+```
+npm install
+```
+Run Project
+```
+npm run dev // Will start on http://localhost:3000
+```
+
+Run Backend
+
+install dependencies
+```
+npm install
+```
+Run Project
+```
+npm start // Will start on http://localhost:4500
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
