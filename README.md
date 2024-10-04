@@ -78,7 +78,7 @@ Frontend Features
 
 ## 📷 Video Demo <a name="live-demo"></a>
 
-> <a href="https://www.shayanalibakhsh.online/" >Video Live</a>
+> <a href="https://youtu.be/hAf5bkVka80" >Video Live</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,6 +94,7 @@ Frontend Features
 
 ## 🏃‍♂️ Run Project <a name="running-project"></a>
 
+( Node.js must be installed )
 ### Run Frontend
 
 install dependencies
